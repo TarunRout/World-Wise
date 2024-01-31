@@ -2,7 +2,7 @@ import CityItem from "./CityItem";
 import Spinner from "./Spinner";
 import Message from "./Message";
 
-import styles from "./City.module.css";
+import styles from "./CityList.module.css";
 
 export default function City({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
