@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,30 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "9a04",
-      "cityName": "Kolkata",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-02-07T17:52:56.302Z",
-      "notes": "Home\n",
-      "position": {
-        "lat": "22.57787647597556",
-        "lng": "88.32990646362306"
-      }
-    },
-    {
-      "id": "d822",
-      "cityName": "Sintra",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-02-07T18:56:46.551Z",
-      "notes": "sdsd",
-      "position": {
-        "lat": "38.81831117374662",
-        "lng": "-9.291687011718752"
-      }
     }
   ]
 }
