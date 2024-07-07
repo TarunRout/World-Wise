@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState("jack@example.com");
+  const [email, setEmail] = useState("tarun@example.com");
   const [password, setPassword] = useState("qwerty");
   const { login, isAuthenticated } = useAuth();
   const navigate = useNavigate();
@@ -20,7 +20,7 @@ export default function Login() {
 
   useEffect(
     function () {
-      if (isAuthenticated) navigate("/app");
+      if (isAuthenticated) navigate("/app", { replace: true });
     },
     [isAuthenticated, navigate]
   );

@@ -13,15 +13,14 @@ export default function Product() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            Discover the perfect companion for your wanderlust with our
+            meticulously crafted travel notebook.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Designed for adventurers who cherish documenting their journeys with
+            precision and flair, our notebook offers a seamless blend of
+            functionality and elegance. Capture every moment in vivid detail
+            with dedicated sections for locations, dates, and personalized notes
           </p>
         </div>
       </section>

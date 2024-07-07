@@ -14,9 +14,12 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            Discover the perfect companion for your wanderlust with our
+            meticulously crafted travel notebook. Designed for adventurers who
+            cherish documenting their journeys with precision and flair, our
+            notebook offers a seamless blend of functionality and elegance.
+            Capture every moment in vivid detail with dedicated sections for
+            locations, dates, and personalized notes.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
