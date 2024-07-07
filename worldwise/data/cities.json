@@ -1,51 +1,51 @@
 {
   "cities": [
     {
-      "id": "9a04",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "fdcb",
       "cityName": "Kolkata",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-02-07T17:52:56.302Z",
-      "notes": "Home\n",
+      "date": "2024-07-07T14:43:42.369Z",
+      "notes": "The most Beautiful",
       "position": {
-        "lat": "22.57787647597556",
-        "lng": "88.32990646362306"
+        "lat": "22.57771797088676",
+        "lng": "88.36054801940918"
       }
     },
     {
-      "id": "2705",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-07T14:10:23.109Z",
-      "notes": "It was amazing\n",
-      "position": {
-        "lat": "39.99474476071587",
-        "lng": "-0.024719238281250003"
-      }
-    },
-    {
-      "id": "b294",
-      "cityName": "Ichikawa",
+      "id": "b7be",
+      "cityName": "Tokyo",
       "country": "Japan",
       "emoji": "🇯🇵",
-      "date": "2024-07-07T14:31:11.331Z",
-      "notes": "Beautifullll",
-      "position": {
-        "lat": "35.71083783530009",
-        "lng": "139.92187500000003"
-      }
-    },
-    {
-      "id": "fdef",
-      "cityName": "Reporoa",
-      "country": "New Zealand",
-      "emoji": "🇳🇿",
-      "date": "2024-07-07T14:31:28.644Z",
+      "date": "2024-07-07T14:44:23.343Z",
       "notes": "",
       "position": {
-        "lat": "-38.54816542304657",
-        "lng": "176.13281250000003"
+        "lat": "35.661759419295045",
+        "lng": "139.79553222656253"
       }
     }
   ]
